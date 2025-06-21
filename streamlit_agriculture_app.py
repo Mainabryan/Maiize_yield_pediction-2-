@@ -2,7 +2,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import joblib
+
 
 # Page configuration
 st.set_page_config(page_title="🌾 Kenya Maize Yield Predictor", layout="centered")
